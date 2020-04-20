@@ -1,4 +1,10 @@
-# Youtube TypeScript Playlist
+## Youtube TypeScript Playlist
+
+<div style="text-align:center">
+  <img src="typescript.png" />
+</div>
+
+### About
 
 Esse repositório foi criado para armazenar os códigos utilizados durante as video-aulas de TypeScript no meu [canal do YouTube](https://www.youtube.com/channel/UCsxY6tVQED5YBALHpHLuXQw).
 
