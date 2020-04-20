@@ -1,6 +1,6 @@
 ## Type Guards
 
-#### Tipos primitivos
+#### Primitive types
 
 ```typescript
 function printType(value: number | string) {
@@ -13,7 +13,7 @@ function printType(value: number | string) {
 }
 ```
 
-#### Como ensinar o TypeScript a diferenciar minhas próprias interfaces?
+#### Como fazer ensinar o TypeScript a diferenciar minhas próprias interfaces?
 
 ```typescript
 interface Developer {
