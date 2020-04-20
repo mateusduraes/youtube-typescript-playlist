@@ -1,8 +1,8 @@
 ## Youtube TypeScript Playlist
 
-<div style="text-align:center">
+<p align="center">
   <img src="typescript.png" />
-</div>
+</p>
 
 ### About
 
