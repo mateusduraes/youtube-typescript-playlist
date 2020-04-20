@@ -1,6 +1,6 @@
 ## Mapped Types
 
-#### Partial
+#### Partial (Provido pelo próprio TypeScript)
 
 ```typescript
 interface Person {
@@ -19,7 +19,7 @@ const personPartial: Partial<Person> = {
 };
 ```
 
-#### Readonly
+#### Readonly (Provido pelo próprio TypeScript)
 
 ```typescript
 interface Person {
@@ -34,7 +34,7 @@ const personReadonly: Readonly<Person> = {
 personReadonly.age = 23; // Error, todas propriedades de personReadonly sāo readonly (nāo podem ser alteradas)
 ```
 
-#### Custom Mapped Type - Stringify
+#### Criando seu próprio Mapped Type - Stringify
 
 ```typescript
 interface Person {
@@ -52,7 +52,7 @@ const personString: Stringify<Person> = {
 };
 ```
 
-### Stringify in nested object
+### Stringify em nested objects
 
 ```typescript
 interface Person {
