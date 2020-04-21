@@ -18,5 +18,10 @@ Esse repositório foi criado para armazenar os códigos utilizados durante as vi
   - [Código](/videos/1-mapped-types.md)
 
 - **TypeScript #2 - Type Guards**
+
   - [Youtube Video](https://www.youtube.com/watch?v=QK_45Wf9tmI)
   - [Código](/videos/2-type-guards.md)
+
+- **TypeScript #3 - Legibilidade com numeric separator**
+  - Youtube Video - Ainda nāo gravado
+  - [Código](/videos/3-numeric-separator.md)
