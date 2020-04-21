@@ -28,5 +28,10 @@ Esse repositório foi criado para armazenar os códigos utilizados durante as vi
   - [Código](/videos/3-numeric-separator.md)
 
 - **TypeScript #4 - Interface vs Type, qual a diferença?**
+
   - Youtube Video - Ainda nāo gravado
   - [Código](/videos/4-interface-vs-type.md)
+
+- **TypeScript #5 - Intersection types**
+  - Youtube Video - Ainda nāo gravado
+  - [Código](/videos/5-intersection-types.md)
