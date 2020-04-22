@@ -24,7 +24,7 @@ Esse repositório foi criado para armazenar os códigos utilizados durante as vi
 
 - **TypeScript #3 - Legibilidade com numeric separator**
 
-  - Youtube Video - Ainda nāo gravado
+  - [Youtube Video](https://www.youtube.com/watch?v=wJASN8vfNNo)
   - [Código](/videos/3-numeric-separator.md)
 
 - **TypeScript #4 - Interface vs Type, qual a diferença?**
