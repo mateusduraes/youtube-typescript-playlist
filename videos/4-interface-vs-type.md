@@ -23,7 +23,7 @@ interface Profession {
 
 const dev: Profession = {
   name: 'John',
-  sallary: 2500,
+  salary: 2500,
 };
 ```
 
@@ -33,13 +33,12 @@ type Profession = {
 };
 
 type Profession = {
-  sallary: number;
+  salary: number;
 };
-// Nāo tranpila
 
 const dev: Profession = {
   name: 'John',
-  sallary: 2500,
+  salary: 2500,
 };
 ```
 
@@ -52,11 +51,11 @@ type Stringify<T> = {
 
 
 interface IStringify<T> {
-  [P in keyof T]: string; // Error - A interface impede que o código transpile
+  [P in keyof T]: string;
 }
 ```
 
-#### Só conseguimos utilizar interfaces para tipar objetos, Types podem ser usados como Alias até mesmo para tipos primitivos.
+#### Só conseguimos utilizar interfaces para tipar objetos / functions, Types podem ser usados como Alias até mesmo para tipos primitivos.
 
 ```typescript
 type UserEmail = string;
