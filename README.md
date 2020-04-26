@@ -29,7 +29,7 @@ Esse repositório foi criado para armazenar os códigos utilizados durante as vi
 
 - **TypeScript #4 - Interface vs Type, qual a diferença?**
 
-  - Youtube Video - Ainda nāo gravado
+  - [Youtube Video](https://youtu.be/s9qgTlpYDuA)
   - [Código](/videos/4-interface-vs-type.md)
 
 - **TypeScript #5 - Intersection types**

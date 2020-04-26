@@ -33,6 +33,7 @@ type Profession = {
 };
 
 type Profession = {
+  // Error, Identificador duplo, nāo é possivel fazer Merge com types.
   salary: number;
 };
 
@@ -51,7 +52,7 @@ type Stringify<T> = {
 
 
 interface IStringify<T> {
-  [P in keyof T]: string;
+  [P in keyof T]: string; // Error, interfaces nāo trabalham com computed names.
 }
 ```
 
