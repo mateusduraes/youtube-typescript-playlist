@@ -32,6 +32,11 @@ Esse repositório foi criado para armazenar os códigos utilizados durante as vi
   - [Youtube Video](https://youtu.be/s9qgTlpYDuA)
   - [Código](/videos/4-interface-vs-type.md)
 
-- **TypeScript #5 - Intersection types**
-  - Youtube Video - Ainda nāo gravado
+- **TypeScript #5 - Intersection Types, unindo tipos de forma elegante**
+
+  - [Youtube Video](https://youtu.be/yyOJbrlo0X8)
+  - [Código](/videos/5-intersection-types.md)
+
+- **TypeScript #6 - Utility Types, conheça os tipos já fornecidos pelo TypeScript**
+  - [Youtube Video](https://youtu.be/7LEMi8KWlWA)
   - [Código](/videos/5-intersection-types.md)
