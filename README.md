@@ -56,3 +56,7 @@ Esse repositório foi criado para armazenar os códigos utilizados durante as vi
 - **TypeScript - Reutilizando tipagem dos parâmetros com tuplas**
   - [Youtube Video](https://youtu.be/eZnGtLStgJ8)
   - [Código](/videos/10-tuple-as-rest-parameters.md)
+
+- **TypeScript - Conditional Types, entenda o Extends e o Infer**
+  - [Youtube Video](https://youtu.be/C3dUq1qr468)
+  - [Código](/videos/11-conditional-types.md)
