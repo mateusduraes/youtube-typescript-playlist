@@ -60,3 +60,7 @@ Esse repositório foi criado para armazenar os códigos utilizados durante as vi
 - **TypeScript - Conditional Types, entenda o Extends e o Infer**
   - [Youtube Video](https://youtu.be/C3dUq1qr468)
   - [Código](/videos/11-conditional-types.md)
+
+- **TypeScript - Conheça o Satisfies operator, lançado na versão 4.9**
+  - [Youtube Video](https://youtu.be/LH1n_PpoXJE)
+  - [Código](/videos/12-satisfies.md)
