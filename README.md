@@ -64,3 +64,8 @@ Esse repositório foi criado para armazenar os códigos utilizados durante as vi
 - **TypeScript - Conheça o Satisfies operator, lançado na versão 4.9**
   - [Youtube Video](https://youtu.be/LH1n_PpoXJE)
   - [Código](/videos/12-satisfies.md)
+
+- **TypeScript - Desvendando os problemas dos enums**
+  - [Youtube Video](https://youtu.be/8XZSNATeKkI)
+  - [Código](/videos/13-enums.md)
+  
