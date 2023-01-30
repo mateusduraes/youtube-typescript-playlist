@@ -70,6 +70,6 @@ Esse repositório foi criado para armazenar os códigos utilizados durante as vi
   - [Código](/videos/13-enums.md)
   
 - **TypeScript 5.0 Beta**
-  - [Youtube Video](https://www.youtube.com/watch?v=jLr8hW_Qjdk)
+  - [Youtube Video](https://youtu.be/jLr8hW_Qjdk)
   - [Código](/videos/14-ts-5.0.md)
   
